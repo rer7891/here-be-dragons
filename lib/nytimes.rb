@@ -2214,8 +2214,10 @@ class Nytimes
           "copyright": "Kayana Szymczak for The New York Times"
         }
       ],
+
       "short_url": "https://nyti.ms/2NZci9R"
     },
+
     {
       "section": "U.S.",
       "subsection": "Politics",
